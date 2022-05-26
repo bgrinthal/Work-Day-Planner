@@ -1,6 +1,15 @@
 This project creates a typical 9-5 work day planner that saves and stores events/input on refresh.  The planner will also show the current hour in red, futur hours in green, and past hours in grey.
 
 
+<<<<<<< HEAD
+=======
+https://bgrinthal.github.io/Work-Day-Planner/
+
+
+<img width="1436" alt="Screen Shot 2022-05-26 at 9 37 35 AM" src="https://user-images.githubusercontent.com/105067005/170499002-8051c7c9-186b-4796-a80f-77fbacc04a0b.png">
+
+
+>>>>>>> 71116e41bec77ab74a141d50adbca810499dd7f3
 
 
 
