@@ -1,3 +1,9 @@
+This project creates a typical 9-5 work day planner that saves and stores events/input on refresh.  The planner will also show the current hour in red, futur hours in green, and past hours in grey.
+
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
